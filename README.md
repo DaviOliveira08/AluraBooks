@@ -1,7 +1,8 @@
 # AluraBooks
 
 Bem-vindo ao AluraBooks, um projeto desenvolvido com base nos cursos da Alura. Este é um site totalmente responsivo, projetado para oferecer uma experiência de usuário consistente em tablets, celulares e desktops.
-![image](https://github.com/DaviOliveira08/AluraBooks/assets/145383748/2e2fbfcb-2e78-4603-928f-9245beed79e1)
+![image](https://github.com/DaviOliveira08/AluraBooks/assets/145383748/88a3c729-33ac-4f35-8c8d-3f7855cce643)
+
 
 ## Sobre o Projeto
 
